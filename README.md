@@ -6,8 +6,6 @@ An interactive 3D web application that serves as a proof-of-concept for a metave
 
 As a developer passionate about the intersection of emerging technologies, I embarked on this project to deepen my understanding of the Web3 space. "Myopic Metaverse" is a hands-on exploration of how secure blockchain identity, generative AI, and immersive web experiences can converge. My central idea was to explore what makes a metaverse truly valuable: true digital ownership. To that end, the core feature I implemented was Sign-In With Ethereum (SIWE) authentication. By integrating MetaMask, I was able to create a secure link between a user's real-world identity (their wallet) and their presence in the digital world, setting the stage for future implementation of fungible digital assets.
 
-This project is a "build in public" effort to document my progress, share my learnings, and showcase my skills to potential employers and collaborators.
-
 ![The Myopic Metaverse Live Demo](/assets/myopicmetaverse-demo.gif)
 
 ### [**Live Demo on Google Cloud Run**](https://the-metaverse-by-myopicoracle-demo-v3-565993571311.us-west1.run.app)
