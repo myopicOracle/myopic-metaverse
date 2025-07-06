@@ -1,0 +1,6 @@
+{
+  "name": "The Metaverse by myopicOracle - Demo v3",
+  "description": "An interactive 3D Metaverse with MetaMask (SIWE) authentication and Gemini API powered Chatbots. 3D Enviroment and character code adapted to React.js / Three.js from Anthropic article found here: https://claude.ai/artifacts/inspiration/c33e575f-5228-4058-aa78-a998bad7ec71",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
